@@ -45,7 +45,7 @@ public class Num1926 {
                             int nx = cur[0]+dx[dir];
                             int ny = cur[1]+dy[dir];
                             if ((nx >= 0 && ny >= 0 && nx < n && ny < m) && board[nx][ny] == 1 && visited[nx][ny] != 1) {
-                                visited[nx][ny]=1;
+                                visited[nx][ny] = 1;
                                 queue.add(new int[]{nx,ny});
                             }
                         }
