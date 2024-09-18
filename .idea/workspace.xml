@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/gold/Num5430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num3986.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Gradle.java-algorithm [:Num2178.main()].executor": "Run",
     "Gradle.java-algorithm [:Num2493.main()].executor": "Run",
     "Gradle.java-algorithm [:Num3273.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num3986.main()].executor": "Run",
     "Gradle.java-algorithm [:Num4179.main()].executor": "Run",
     "Gradle.java-algorithm [:Num5430.main()].executor": "Run",
     "Gradle.java-algorithm [:Num6198.main()].executor": "Debug",
@@ -72,7 +73,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Num5430">
+  <component name="RunManager" selected="Application.Num3986">
     <configuration name="Num1021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num1021" />
       <module name="java-algorithm.main" />
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num15683" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.gold.Num15683" />
+    <configuration name="Num3273" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num3273" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.gold.*" />
+          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num3273" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num3273" />
+    <configuration name="Num3986" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num3986" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num3986" />
         <item itemvalue="Application.Num5430" />
         <item itemvalue="Application.Num1021" />
         <item itemvalue="Application.Num6198" />
         <item itemvalue="Application.Num3273" />
-        <item itemvalue="Application.Num15683" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +167,7 @@
       <workItem from="1719321179963" duration="5629000" />
       <workItem from="1719812182098" duration="34439000" />
       <workItem from="1722840412987" duration="15883000" />
-      <workItem from="1724827603824" duration="29182000" />
+      <workItem from="1724827603824" duration="33634000" />
     </task>
     <servers />
   </component>
@@ -178,8 +179,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/gold/Num5430.java</url>
-          <line>26</line>
+          <line>23</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num3986.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
