@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num3986.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/gold/Num2504.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,39 +40,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.java-algorithm [:Main.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1021.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1182.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1475.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15649.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15650.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15683.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1629.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1926.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2178.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2493.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num3273.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num3986.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num4179.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num5430.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num6198.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num7576.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num9663.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.java-algorithm [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1021.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1182.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1475.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15649.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15650.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15683.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1629.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1926.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2178.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2493.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num3273.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num3986.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num4179.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num5430.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num6198.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num7576.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num9663.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Num3986">
     <configuration name="Num1021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num1021" />
@@ -167,7 +167,8 @@
       <workItem from="1719321179963" duration="5629000" />
       <workItem from="1719812182098" duration="34439000" />
       <workItem from="1722840412987" duration="15883000" />
-      <workItem from="1724827603824" duration="33634000" />
+      <workItem from="1724827603824" duration="37730000" />
+      <workItem from="1727582509334" duration="1030000" />
     </task>
     <servers />
   </component>
@@ -181,11 +182,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/gold/Num5430.java</url>
           <line>23</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num3986.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
