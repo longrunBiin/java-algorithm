@@ -77,18 +77,4 @@ public class Num2583 {
         }
     }
 
-    private static void initBoard() {
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < M; j++) {
-                board[N][M] = 0;
-            }
-        }
-    }
-    private static void initVisited() {
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < M; j++) {
-                visited[N][M] = 0;
-            }
-        }
-    }
 }
