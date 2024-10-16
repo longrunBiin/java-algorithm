@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/gold/Num2447.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,7 @@
     "Gradle.java-algorithm [:Num2146.main()].executor": "Run",
     "Gradle.java-algorithm [:Num2178.main()].executor": "Run",
     "Gradle.java-algorithm [:Num2206.main()].executor": "Debug",
+    "Gradle.java-algorithm [:Num2447.main()].executor": "Run",
     "Gradle.java-algorithm [:Num2468.main()].executor": "Debug",
     "Gradle.java-algorithm [:Num2493.main()].executor": "Run",
     "Gradle.java-algorithm [:Num2573.main()].executor": "Debug",
@@ -94,22 +94,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Num1992">
+  <component name="RunManager" selected="Application.Num2447">
     <configuration name="Num11967" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.gold.Num11967" />
-      <module name="java-algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.gold.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num16920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.gold.Num16920" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -160,13 +147,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Num2447" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.gold.Num2447" />
+      <module name="java-algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.baekjoon.gold.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num2447" />
         <item itemvalue="Application.Num1992" />
         <item itemvalue="Application.Num1780" />
         <item itemvalue="Application.Num17478" />
         <item itemvalue="Application.Num11967" />
-        <item itemvalue="Application.Num16920" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,7 @@
       <workItem from="1722840412987" duration="15883000" />
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
-      <workItem from="1728308718470" duration="46984000" />
+      <workItem from="1728308718470" duration="47699000" />
     </task>
     <servers />
   </component>
