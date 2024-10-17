@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/gold/Num2448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15651.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Gradle.java-algorithm [:Num1475.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15649.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15650.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num15651.main()].executor": "Debug",
     "Gradle.java-algorithm [:Num15683.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1600.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1629.main()].executor": "Run",
@@ -67,6 +68,7 @@
     "Gradle.java-algorithm [:Num2178.main()].executor": "Run",
     "Gradle.java-algorithm [:Num2206.main()].executor": "Debug",
     "Gradle.java-algorithm [:Num2447.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num2448.main()].executor": "Run",
     "Gradle.java-algorithm [:Num2468.main()].executor": "Debug",
     "Gradle.java-algorithm [:Num2493.main()].executor": "Run",
     "Gradle.java-algorithm [:Num2573.main()].executor": "Debug",
@@ -95,9 +97,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Num2448">
-    <configuration name="Num17478" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num17478" />
+  <component name="RunManager" selected="Application.Num15651">
+    <configuration name="Num15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15651" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num15651" />
         <item itemvalue="Application.Num2448" />
         <item itemvalue="Application.Num2447" />
         <item itemvalue="Application.Num1992" />
         <item itemvalue="Application.Num1780" />
-        <item itemvalue="Application.Num17478" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +193,7 @@
       <workItem from="1722840412987" duration="15883000" />
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
-      <workItem from="1728308718470" duration="48807000" />
+      <workItem from="1728308718470" duration="51479000" />
     </task>
     <servers />
   </component>
@@ -230,6 +232,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/gold/Num11967.java</url>
           <line>59</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15651.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java</url>
