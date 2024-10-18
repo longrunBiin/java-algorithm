@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15657.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
     "Gradle.java-algorithm [:Num15652.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15654.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15655.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num15656.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15683.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1600.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1629.main()].executor": "Run",
@@ -105,20 +106,7 @@
       <recent name="org.example.baekjoon.silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num15656">
-    <configuration name="Num15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15651" />
-      <module name="java-algorithm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Num15657">
     <configuration name="Num15652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15652" />
       <module name="java-algorithm.main" />
@@ -171,13 +159,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Num15657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15657" />
+      <module name="java-algorithm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num15657" />
         <item itemvalue="Application.Num15656" />
         <item itemvalue="Application.Num15655" />
         <item itemvalue="Application.Num15654" />
         <item itemvalue="Application.Num15652" />
-        <item itemvalue="Application.Num15651" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +202,7 @@
       <workItem from="1722840412987" duration="15883000" />
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
-      <workItem from="1728308718470" duration="54827000" />
+      <workItem from="1728308718470" duration="55490000" />
     </task>
     <servers />
   </component>
