@@ -100,7 +100,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Num15655">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.baekjoon.silver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Num15656">
     <configuration name="Num15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15651" />
       <module name="java-algorithm.main" />
@@ -153,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num2448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.gold.Num2448" />
+    <configuration name="Num15656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15656" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.gold.*" />
+          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num15656" />
         <item itemvalue="Application.Num15655" />
         <item itemvalue="Application.Num15654" />
         <item itemvalue="Application.Num15652" />
         <item itemvalue="Application.Num15651" />
-        <item itemvalue="Application.Num2448" />
       </list>
     </recent_temporary>
   </component>
