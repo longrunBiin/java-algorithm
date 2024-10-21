@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15657.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,8 @@
     "Gradle.java-algorithm [:Num15652.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15654.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15655.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15656.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num15656.main()].executor": "Debug",
+    "Gradle.java-algorithm [:Num15657.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15683.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1600.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1629.main()].executor": "Run",
@@ -202,7 +202,7 @@
       <workItem from="1722840412987" duration="15883000" />
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
-      <workItem from="1728308718470" duration="55490000" />
+      <workItem from="1728308718470" duration="56895000" />
     </task>
     <servers />
   </component>
@@ -251,6 +251,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15652.java</url>
           <line>18</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15657.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java</url>
