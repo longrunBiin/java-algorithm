@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num6603.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15666.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,6 +63,10 @@
     "Gradle.java-algorithm [:Num15655.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15656.main()].executor": "Debug",
     "Gradle.java-algorithm [:Num15657.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num15663.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num15664.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num15665.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num15666.main()].executor": "Run",
     "Gradle.java-algorithm [:Num15683.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1600.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1629.main()].executor": "Run",
@@ -85,6 +93,7 @@
     "Gradle.java-algorithm [:Num5430.main()].executor": "Run",
     "Gradle.java-algorithm [:Num6198.main()].executor": "Debug",
     "Gradle.java-algorithm [:Num6593.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num6603.main()].executor": "Run",
     "Gradle.java-algorithm [:Num7576.main()].executor": "Run",
     "Gradle.java-algorithm [:Num9466.main()].executor": "Debug",
     "Gradle.java-algorithm [:Num9663.main()].executor": "Run",
@@ -106,9 +115,9 @@
       <recent name="org.example.baekjoon.silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num15657">
-    <configuration name="Num15652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15652" />
+  <component name="RunManager" selected="Application.Num6603">
+    <configuration name="Num15663" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15663" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num15654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15654" />
+    <configuration name="Num15664" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15664" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num15655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15655" />
+    <configuration name="Num15665" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15665" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num15656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15656" />
+    <configuration name="Num15666" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15666" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -159,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num15657" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15657" />
+    <configuration name="Num6603" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num6603" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -174,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Num15657" />
-        <item itemvalue="Application.Num15656" />
-        <item itemvalue="Application.Num15655" />
-        <item itemvalue="Application.Num15654" />
-        <item itemvalue="Application.Num15652" />
+        <item itemvalue="Application.Num6603" />
+        <item itemvalue="Application.Num15666" />
+        <item itemvalue="Application.Num15665" />
+        <item itemvalue="Application.Num15664" />
+        <item itemvalue="Application.Num15663" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +211,7 @@
       <workItem from="1722840412987" duration="15883000" />
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
-      <workItem from="1728308718470" duration="56895000" />
+      <workItem from="1728308718470" duration="66061000" />
     </task>
     <servers />
   </component>
@@ -253,9 +262,19 @@
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15657.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="54" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15663.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num15665.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num6603.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java</url>
