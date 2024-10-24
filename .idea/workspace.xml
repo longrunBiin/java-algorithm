@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num6603.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num11931.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Gradle.java-algorithm [:Main.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1021.main()].executor": "Run",
     "Gradle.java-algorithm [:Num1182.main()].executor": "Run",
+    "Gradle.java-algorithm [:Num11931.main()].executor": "Run",
     "Gradle.java-algorithm [:Num11967.main()].executor": "Debug",
     "Gradle.java-algorithm [:Num13549.main()].executor": "Run",
     "Gradle.java-algorithm [:Num13913.main()].executor": "Run",
@@ -115,9 +116,9 @@
       <recent name="org.example.baekjoon.silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num6603">
-    <configuration name="Num15663" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15663" />
+  <component name="RunManager" selected="Application.Num11931">
+    <configuration name="Num11931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num11931" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -183,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num11931" />
         <item itemvalue="Application.Num6603" />
         <item itemvalue="Application.Num15666" />
         <item itemvalue="Application.Num15665" />
         <item itemvalue="Application.Num15664" />
-        <item itemvalue="Application.Num15663" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +212,7 @@
       <workItem from="1722840412987" duration="15883000" />
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
-      <workItem from="1728308718470" duration="66061000" />
+      <workItem from="1728308718470" duration="68749000" />
     </task>
     <servers />
   </component>
@@ -275,6 +276,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num6603.java</url>
           <line>25</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num11931.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java</url>
