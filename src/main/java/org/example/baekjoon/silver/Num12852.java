@@ -10,6 +10,7 @@ public class Num12852 {
         int n = Integer.parseInt(br.readLine());
 
         int[] dp = new int[n + 1];
+        //경로
         int[] route = new int[n + 1];
 
         dp[1] = 0;

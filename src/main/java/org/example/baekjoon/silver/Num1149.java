@@ -20,9 +20,9 @@ public class Num1149 {
                 rgb[i][j] = Integer.parseInt(st.nextToken());
             }
         }
-        //dp[k][0] = min(dp[k-1][1], dp[k-1][2]) + rgb[k][0]
-        //dp[k][1] = min(dp[k-1][0], dp[k-1][2]) + rgb[k][1]
-        //dp[k][2] = min(dp[k-1][0], dp[k-1][1]) + rgb[k][2]
+        //dp[k][0] = min(dp[k-1][1], dp[k-1][2]) + rgb[k][0], red
+        //dp[k][1] = min(dp[k-1][0], dp[k-1][2]) + rgb[k][1], green
+        //dp[k][2] = min(dp[k-1][0], dp[k-1][1]) + rgb[k][2], blue
 
         dp[1][0] = rgb[1][0];
         dp[1][1] = rgb[1][1];
