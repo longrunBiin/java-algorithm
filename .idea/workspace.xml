@@ -214,7 +214,7 @@
       <workItem from="1722840412987" duration="15883000" />
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
-      <workItem from="1728308718470" duration="76979000" />
+      <workItem from="1728308718470" duration="77678000" />
     </task>
     <servers />
   </component>
@@ -283,11 +283,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num11931.java</url>
           <line>13</line>
           <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1149.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java</url>
