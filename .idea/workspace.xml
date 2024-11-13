@@ -42,85 +42,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Num16920.executor": "Run",
-    "Gradle.Build java-algorithm.executor": "Run",
-    "Gradle.java-algorithm [:Main.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1021.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1149.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1182.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num11931.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num11967.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num12852.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num13549.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num13913.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num14442.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1475.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15649.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15650.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15651.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15652.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15654.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15655.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15656.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num15657.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15663.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15664.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15665.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15666.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15683.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num15688.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1600.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1629.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num16920.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num16933.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num17478.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1780.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1926.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num1992.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2146.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2178.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2206.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num2447.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2448.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2468.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num2493.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2573.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num2583.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num2667.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num3273.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num3986.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num4179.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num5014.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num5430.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num6198.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num6593.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num6603.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num7576.main()].executor": "Run",
-    "Gradle.java-algorithm [:Num9466.main()].executor": "Debug",
-    "Gradle.java-algorithm [:Num9663.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Num16920.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build java-algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1021.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num11047.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1149.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1182.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num11931.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num11967.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num12852.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num13549.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num13913.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num14442.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1475.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15649.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15650.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15651.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15652.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15654.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15655.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15656.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num15657.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15663.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15664.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15665.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15666.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15683.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num15688.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1600.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1629.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num16920.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num16933.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num17478.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1780.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1926.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1931.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1992.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2146.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2178.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2206.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num2447.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2448.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2468.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num2493.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2573.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num2583.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num2667.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num3273.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num3986.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num4179.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num5014.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num5430.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num6198.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num6593.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num6603.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num7576.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num9466.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num9663.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.baekjoon.silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num12852">
-    <configuration name="Num1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num1149" />
+  <component name="RunManager" selected="Application.Num1931">
+    <configuration name="Num11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num11047" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num11931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num11931" />
+    <configuration name="Num1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num1149" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -171,8 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num6603" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num6603" />
+    <configuration name="Num1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num1931" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -186,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num1931" />
+        <item itemvalue="Application.Num11047" />
         <item itemvalue="Application.Num12852" />
         <item itemvalue="Application.Num1149" />
         <item itemvalue="Application.Num15688" />
-        <item itemvalue="Application.Num11931" />
-        <item itemvalue="Application.Num6603" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +216,8 @@
       <workItem from="1722840412987" duration="15883000" />
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
-      <workItem from="1728308718470" duration="77678000" />
+      <workItem from="1728308718470" duration="82246000" />
+      <workItem from="1731150059166" duration="599000" />
     </task>
     <servers />
   </component>
@@ -283,6 +286,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num11931.java</url>
           <line>13</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num11047.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java</url>
