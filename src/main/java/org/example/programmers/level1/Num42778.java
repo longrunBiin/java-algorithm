@@ -2,6 +2,7 @@ package org.example.programmers.level1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 public class Num42778 {
@@ -10,6 +11,7 @@ public class Num42778 {
             int[] a = new int[]{1, 5, 2, 6, 3, 7, 4};
             int[][] c = new int[][]{{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
             solution(a, c);
+
         }
         public static int[] solution(int[] array, int[][] commands) {
 
