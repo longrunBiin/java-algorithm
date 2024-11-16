@@ -1,14 +1,17 @@
 package org.example.programmers.level2;
 
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+
 public class Num43165 {
     class Solution {
         static int count = 0;
         public int solution(int[] numbers, int target) {
             int answer = 0;
-
             dfs(numbers, target, 0, 0);
             answer = count;
-
+            Arrays.sort(numbers);
             return answer;
         }
 
