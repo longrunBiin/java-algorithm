@@ -39,7 +39,6 @@
   <component name="ProjectId" id="2iNBVO2lzGviuVZp8IFWun8IPW2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -53,6 +52,8 @@
     &quot;Gradle.java-algorithm [:Num1182.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num11931.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num11967.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num1208.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1209.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num12852.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num13549.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num13913.main()].executor&quot;: &quot;Run&quot;,
@@ -102,6 +103,7 @@
     &quot;Gradle.java-algorithm [:Num7576.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num9466.main()].executor&quot;: &quot;Debug&quot;,
     &quot;Gradle.java-algorithm [:Num9663.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Solution.main()].executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
@@ -120,13 +122,13 @@
       <recent name="org.example.baekjoon.silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num1931">
-    <configuration name="Num11047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num11047" />
+  <component name="RunManager" selected="Application.Num42746$Solution">
+    <configuration name="Num1208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.swea.d3.Num1208" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
+          <option name="PATTERN" value="org.example.swea.d3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num1149" />
+    <configuration name="Num1209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.swea.d3.Num1209" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
+          <option name="PATTERN" value="org.example.swea.d3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num12852" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num12852" />
+    <configuration name="Num42746$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level2.Num42746$Solution" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
+          <option name="PATTERN" value="org.example.programmers.level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num15688" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num15688" />
+    <configuration name="Num42778$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level1.Num42778$Solution" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
+          <option name="PATTERN" value="org.example.programmers.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num1931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.baekjoon.silver.Num1931" />
+    <configuration name="Num43165$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level2.Num43165$Solution" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.baekjoon.silver.*" />
+          <option name="PATTERN" value="org.example.programmers.level2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Num1931" />
-        <item itemvalue="Application.Num11047" />
-        <item itemvalue="Application.Num12852" />
-        <item itemvalue="Application.Num1149" />
-        <item itemvalue="Application.Num15688" />
+        <item itemvalue="Application.Num42746$Solution" />
+        <item itemvalue="Application.Num42778$Solution" />
+        <item itemvalue="Application.Num43165$Solution" />
+        <item itemvalue="Application.Num1209" />
+        <item itemvalue="Application.Num1208" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +219,8 @@
       <workItem from="1724827603824" duration="37730000" />
       <workItem from="1727582509334" duration="29483000" />
       <workItem from="1728308718470" duration="82246000" />
-      <workItem from="1731150059166" duration="599000" />
+      <workItem from="1731150059166" duration="20240000" />
+      <workItem from="1732091222035" duration="765000" />
     </task>
     <servers />
   </component>
@@ -291,6 +294,31 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num11047.java</url>
           <line>22</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/swea/d3/Num1206.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/swea/d3/Num1208.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/programmers/level1/Num42778.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/programmers/level1/Num42778.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/programmers/level2/Num42746.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java</url>
