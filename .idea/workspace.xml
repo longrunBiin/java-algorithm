@@ -79,6 +79,7 @@
     &quot;Gradle.java-algorithm [:Num16933.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num17478.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num1780.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num1845.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num1926.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num1931.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num1992.main()].executor&quot;: &quot;Run&quot;,
@@ -95,6 +96,7 @@
     &quot;Gradle.java-algorithm [:Num3273.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num3986.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num4179.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-algorithm [:Num42576.main()].executor&quot;: &quot;Debug&quot;,
     &quot;Gradle.java-algorithm [:Num5014.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num5430.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num6198.main()].executor&quot;: &quot;Debug&quot;,
@@ -122,13 +124,13 @@
       <recent name="org.example.baekjoon.silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num42746$Solution">
-    <configuration name="Num1208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.swea.d3.Num1208" />
+  <component name="RunManager" selected="Application.Num42576">
+    <configuration name="Num1845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level1.Num1845" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.swea.d3.*" />
+          <option name="PATTERN" value="org.example.programmers.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num1209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.swea.d3.Num1209" />
+    <configuration name="Num42576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level1.Num42576" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.swea.d3.*" />
+          <option name="PATTERN" value="org.example.programmers.level1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num42576" />
+        <item itemvalue="Application.Num1845" />
         <item itemvalue="Application.Num42746$Solution" />
         <item itemvalue="Application.Num42778$Solution" />
         <item itemvalue="Application.Num43165$Solution" />
-        <item itemvalue="Application.Num1209" />
-        <item itemvalue="Application.Num1208" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +222,8 @@
       <workItem from="1727582509334" duration="29483000" />
       <workItem from="1728308718470" duration="82246000" />
       <workItem from="1731150059166" duration="20240000" />
-      <workItem from="1732091222035" duration="765000" />
+      <workItem from="1732091222035" duration="5106000" />
+      <workItem from="1732530820689" duration="618000" />
     </task>
     <servers />
   </component>
@@ -319,6 +322,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/programmers/level2/Num42746.java</url>
           <line>7</line>
           <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/programmers/level1/Num1845.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/programmers/level1/Num42576.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/baekjoon/silver/Num1992.java</url>
