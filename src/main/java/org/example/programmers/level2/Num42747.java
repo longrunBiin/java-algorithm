@@ -1,6 +1,8 @@
 package org.example.programmers.level2;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Num42747 {
     class Solution {
@@ -8,7 +10,6 @@ public class Num42747 {
             int answer = 0;
             int n = citations.length;
             Arrays.sort(citations);
-
             for(int i = 0;i<n;i++){
                 int hIndex = n - i;
                 if(citations[i] >=hIndex){
