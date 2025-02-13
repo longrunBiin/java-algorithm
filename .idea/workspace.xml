@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="" />
+    <list default="true" id="cc98dfe8-82d2-49c5-b517-b750ad5bc577" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +101,7 @@
     &quot;Gradle.java-algorithm [:Num5014.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num5430.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num6198.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.java-algorithm [:Num64061.main()].executor&quot;: &quot;Debug&quot;,
     &quot;Gradle.java-algorithm [:Num6593.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num6603.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.java-algorithm [:Num7576.main()].executor&quot;: &quot;Run&quot;,
@@ -123,7 +126,7 @@
       <recent name="org.example.baekjoon.silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Num42578">
+  <component name="RunManager" selected="Application.Num64061">
     <configuration name="Num1845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.programmers.level1.Num1845" />
       <module name="java-algorithm.main" />
@@ -176,8 +179,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Num42778$Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level1.Num42778$Solution" />
+    <configuration name="Num64061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.programmers.level1.Num64061" />
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
@@ -191,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num64061" />
         <item itemvalue="Application.Num42578" />
         <item itemvalue="Application.Num42576" />
         <item itemvalue="Application.Num1845" />
         <item itemvalue="Application.Num42746$Solution" />
-        <item itemvalue="Application.Num42778$Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +237,8 @@
       <workItem from="1739173736974" duration="1233000" />
       <workItem from="1739178652763" duration="1218000" />
       <workItem from="1739261748146" duration="845000" />
+      <workItem from="1739322917953" duration="3915000" />
+      <workItem from="1739347097541" duration="1867000" />
     </task>
     <servers />
   </component>
