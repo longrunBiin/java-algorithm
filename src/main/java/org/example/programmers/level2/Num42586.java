@@ -31,4 +31,5 @@ public class Num42586 {
 
         return answer;
     }
+
 }

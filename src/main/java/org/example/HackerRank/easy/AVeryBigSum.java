@@ -14,7 +14,6 @@ import static java.util.stream.Collectors.toList;
 public class AVeryBigSum {
 
     class Result {
-
         /*
          * Complete the 'aVeryBigSum' function below.
          *
@@ -23,6 +22,7 @@ public class AVeryBigSum {
          */
 
         public static long aVeryBigSum(List<Long> ar) {
+
             // Write your code here
             long sum = 0;
             for (Long element : ar) {
@@ -30,6 +30,7 @@ public class AVeryBigSum {
             }
             return sum;
         }
+
 
     }
 
