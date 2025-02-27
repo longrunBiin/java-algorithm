@@ -1,6 +1,8 @@
 package org.example.programmers.level1;
 
 import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class Num1845 {
 
@@ -26,5 +28,17 @@ public class Num1845 {
         answer = count;
 
         return answer;
+    }
+
+    public int solution2(int[] nums) {
+        Set<Integer> pokemon = new HashSet<>();
+        for(int i=0;i<nums.length;i++){
+            pokemon.add(nums[i]);
+        }
+        int n = nums.length/2;
+
+        if(pokemon.size() < n) return pokemon.size();
+
+        return n;
     }
 }
