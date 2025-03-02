@@ -7,7 +7,6 @@ public class Num131127 {
             int answer = 0;
             for(int day = 0; day < discount.length;day++){
                 Map<String, Integer> map = new HashMap<>();
-
                 for(int j=0;j<want.length;j++){
                     map.put(want[j], number[j]);
                 }
