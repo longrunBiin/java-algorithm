@@ -152,7 +152,7 @@
       <module name="java-algorithm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.programmers.level1.*" />
+          <option name="PATTERN" value="org.example.programmers.level3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,6 +274,7 @@
       <workItem from="1742652725181" duration="1685000" />
       <workItem from="1742813661128" duration="624000" />
       <workItem from="1742901293073" duration="1243000" />
+      <workItem from="1743078022503" duration="1282000" />
     </task>
     <servers />
   </component>
